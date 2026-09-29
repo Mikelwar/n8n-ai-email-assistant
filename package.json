@@ -1,0 +1,10 @@
+{
+  "name": "n8n-email-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI email triage for n8n: classify, summarize, prioritize and draft replies with Claude.",
+  "scripts": {
+    "build": "node scripts/build-workflow.js",
+    "test": "node scripts/test-pipeline.js"
+  }
+}

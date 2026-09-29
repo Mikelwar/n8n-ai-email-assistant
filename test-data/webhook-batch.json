@@ -1,0 +1,16 @@
+{
+  "emails": [
+    {
+      "from": "Lena Fischer <lena@brightpath.example>",
+      "subject": "Can we move tomorrow's onboarding call?",
+      "body": "Hi Alex,\n\nSomething came up - could we move tomorrow's 11:00 onboarding call to Friday at the same time?\n\nThanks,\nLena",
+      "timestamp": "2026-09-28T16:05:00Z"
+    },
+    {
+      "from": "newsletter@saas-weekly.example",
+      "subject": "SaaS Weekly #212: 10 growth hacks you missed",
+      "body": "This week's top stories in SaaS... Unsubscribe at any time.",
+      "timestamp": "2026-09-28T16:10:00Z"
+    }
+  ]
+}

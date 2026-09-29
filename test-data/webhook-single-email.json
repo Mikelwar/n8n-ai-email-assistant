@@ -1,0 +1,6 @@
+{
+  "from": "Tom Hughes <tom.hughes@greenleaf.example>",
+  "subject": "Invoice charged twice this month",
+  "body": "Hello,\n\nOur card was charged twice for the September invoice (INV-2026-0912), 2 x EUR 480. Could you refund the duplicate charge and confirm once it's done?\n\nThanks,\nTom Hughes\nFinance, Greenleaf",
+  "timestamp": "2026-09-28T15:20:00Z"
+}

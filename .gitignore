@@ -1,0 +1,12 @@
+# n8n instance data: database, encryption key, stored credentials. Never commit.
+n8n-data/
+
+# Local secrets
+.env
+*.env.local
+
+# Tooling
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
