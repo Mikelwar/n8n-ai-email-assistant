@@ -233,3 +233,14 @@ All settings are fields in the **Config** node:
 ## Tech
 
 n8n 2.x · Claude API (Messages API, structured outputs) · JavaScript Code nodes · Docker
+
+## Screenshots
+
+### Workflow Overview
+![Workflow Overview](docs/screenshots/01-workflow-overview.jpg)
+
+### Demo Execution
+![Demo Execution](docs/screenshots/02-demo-execution.jpg)
+
+### Output Detail
+![Output Detail](docs/screenshots/03-output-detail.jpg)
