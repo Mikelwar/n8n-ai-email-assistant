@@ -205,7 +205,7 @@ All settings are fields in the **Config** node:
 | Field | Default | Notes |
 |---|---|---|
 | `demo_mode` | `true` | `true`: local mock nodes, no API usage. `false`: Claude API (production) |
-| `model` | `claude-opus-5` | Any Claude model that supports structured outputs |
+| `model` | `configurable Claude model` | Any Claude model that supports structured outputs |
 | `analysis_effort` / `reply_effort` | `low` / `medium` | Classification needs little reasoning; replies benefit from more |
 | `analysis_max_tokens` / `reply_max_tokens` | `4000` / `6000` | Includes the model's internal reasoning tokens |
 | `max_body_chars` | `20000` | Longer bodies are truncated for analysis and flagged in `notes` |
