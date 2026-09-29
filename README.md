@@ -161,7 +161,7 @@ Each email produces one record with the same fields in the same order:
   "reply_status": "drafted",
   "status": "ok",
   "notes": "",
-  "model": "claude-opus-5",
+  "model": "configurable-claude-model",
   "processed_at": "2026-09-28T10:15:07.412Z"
 }
 ```
